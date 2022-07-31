@@ -26,16 +26,18 @@ function Header() {
   };
 
   return (
-    <div>
-      <div>
+    <div className='footer'>
+      <div className=''>
         <a href="https://github.com/XyzExia" class="w3-bar-item w3-button">Zekun Chen</a>
       </div>
+      <div className=''>
       {/* Pass the state value and the setter as props to NavTabs */}
       <Navigation
         currentPage={currentPage}
         handlePageChange={handlePageChange}
       />
       {/* Call the renderPage function passing in the currentPage */}
+      </div>
       <main>
         <div>{renderPage(currentPage)}</div>
       </main>

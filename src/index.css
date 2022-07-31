@@ -1,7 +1,7 @@
 body {
   font-family: Work Sans;
   text-align: center;
-  background-color: aliceblue;
+  background-color: rgba(138, 166, 226, 0.945);
 
 }
 
@@ -9,7 +9,7 @@ body {
   text-align: center;
   display: block;
   width: 10%;
-  background-color: aliceblue;
+  background-color: rgb(124, 105, 231);
   
 }
 
@@ -41,7 +41,11 @@ main {
 }
 
 footer.footer {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(145, 183, 233);
+}
+
+footer.navcust {
+  background-color: rgb(145, 183, 233);
 }
 
 
