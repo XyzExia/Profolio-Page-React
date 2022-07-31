@@ -7,7 +7,7 @@ function About() {
     <div>
       <p className="content is-medium">Full Stack Developer with a background in Finance</p>
       <hr />
-      <img className="my-pic" src={process.env.PUBLIC_URL + 'Profolio-Page-React/Public/Assets/profile.jpg'} alt="Pic"/>
+      <img className="my-pic" src={process.env.PUBLIC_URL + 'https://raw.githubusercontent.com/XyzExia/Profolio-Page-React/main/public/Assets/Profile.jpg'} alt="Pic"/>
       <br></br>
  <br></br>
       <br></br>
