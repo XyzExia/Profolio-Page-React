@@ -12,7 +12,7 @@ function Resume() {
 
         <a
           className="button is-primary"
-          href={process.env.PUBLIC_URL + "public/Assets/Zekun Chen Resume.pdf"}
+          href={"https://drive.google.com/file/d/1ZACttIdDdb3S1oOgAdVCQkiNS4kT_cFY/view?usp=sharing"}
           target="_blank" rel="noreferrer"
         >
           <span className="icon">
