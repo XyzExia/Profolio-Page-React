@@ -17,7 +17,7 @@ function Portfolio() {
       <div class="w3-display-container">
         <div class=" w3-black w3-padding">Dayplan</div>
         <a href="https://xyzexia.github.io/Homework-Week-5/"> 
-        <img src={process.env.PUBLIC_URL + "./Assets/Dayplan.PNG"} alt="House"></img>
+        <img src={process.env.PUBLIC_URL + "https://raw.githubusercontent.com/XyzExia/Profolio-Page-React/main/public/Assets/Dayplan.PNG"} alt="House"></img>
         </a>
       </div>
     </div>
@@ -25,7 +25,7 @@ function Portfolio() {
       <div class="w3-display-container">
         <div class="w3-black w3-padding">  README Generator </div>
         <a href="https://github.com/XyzExia/README-Generator"> 
-        <img src={process.env.PUBLIC_URL + "./Assets/NODEJS readme.PNG"} alt="House"></img>
+        <img src={process.env.PUBLIC_URL + "https://raw.githubusercontent.com/XyzExia/Profolio-Page-React/main/public/Assets/NODEJS readme.PNG"} alt="House"></img>
         </a>
       </div>
     </div>
@@ -34,7 +34,7 @@ function Portfolio() {
       <div class="w3-display-container">
         <div class=" w3-black w3-padding">Team-profile-generator</div>
         <a href="https://github.com/XyzExia/Team-profile-generator">
-        <img src={process.env.PUBLIC_URL + "./Assets/example 1.png"} alt="House"></img>
+        <img src={process.env.PUBLIC_URL + "https://raw.githubusercontent.com/XyzExia/Profolio-Page-React/main/public/Assets/example 1.png"} alt="House"></img>
         </a>
       </div>
     </div>
@@ -47,7 +47,7 @@ function Portfolio() {
       <div class="w3-display-container">
         <a href="https://github.com/Gkal14/MoviDex"> 
         <div class=" w3-black w3-padding">MovieDex group project</div>
-        <img src={process.env.PUBLIC_URL + "./Assets/Project 1.PNG"} alt="House"></img>
+        <img src={process.env.PUBLIC_URL + "https://raw.githubusercontent.com/XyzExia/Profolio-Page-React/main/public/Assets/Project 1.PNG"} alt="House"></img>
         </a>
         <div>
           <a href="https://gkal14.github.io/MoviDex/"> live link</a>
@@ -59,7 +59,7 @@ function Portfolio() {
       <div class="w3-display-container">
         <div class=" w3-black w3-padding">RPG-journey-Gamee</div>
         <a href="https://github.com/louieiply/RPG-journey-Game"> 
-        <img src={process.env.PUBLIC_URL + "./Assets/rpgs.png"} alt="House"></img>
+        <img src={process.env.PUBLIC_URL + "https://raw.githubusercontent.com/XyzExia/Profolio-Page-React/main/public/Assets/rpgs.png"} alt="House"></img>
         </a>
       </div>
       <div>
